@@ -1,0 +1,19 @@
+{
+    "name": "AORshoes",
+    "short_name": "AOR",
+    "id": "/",
+    "start_url": "index.html",
+    "orientation": "portrait-primary",
+    "description": "Shoe Sales Platform",
+    "background_color": "#4d90fe",
+    "theme_color": "#002663",
+    "display": "standalone",
+    "version": "0.1",
+    "icons": [
+        {
+            "src": "images/aor_logo308.png",
+            "sizes": "308x308",
+            "type": "image/png"
+        }
+    ]
+}
